@@ -1,0 +1,54 @@
+{
+  "Lights": [
+    {
+      "Name": "diffuseLight",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    {
+      "Name": "diffuseMaterial",
+      "X": 1.0,
+      "Y": 2.0,
+      "Z": 3.0
+    },
+    {
+      "File": "ambientLight",
+      "X": 10.0,
+      "Y": 100.0,
+      "Z": 0.0
+    },
+    {
+      "File": "ambientMaterial",
+      "X": 10.0,
+      "Y": 100.0,
+      "Z": 0.0
+    },
+    {
+      "File": "specularLight",
+      "X": 10.0,
+      "Y": 100.0,
+      "Z": 0.0
+    },
+    {
+      "File": "specularMaterial",
+      "X": 10.0,
+      "Y": 100.0,
+      "Z": 0.0
+    },
+    {
+      "File": "lightDir",
+      "X": 10.0,
+      "Y": 100.0,
+      "Z": 0.0
+    },
+    {
+      "File": "cameraPosition",
+      "X": 10.0,
+      "Y": 100.0,
+      "Z": 0.0
+    }
+
+  ],
+  "version": "1.1"
+}

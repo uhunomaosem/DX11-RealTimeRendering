@@ -1,0 +1,17 @@
+{
+  "light": {
+    "diffuseLight": [1.0, 1.0, 1.0, 1.0],
+    "ambientLight": [0.2, 0.2, 0.2, 1.0],
+    "specularLight": [1.0, 1.0, 1.0, 1.0]
+  },
+  "textures": [
+    {
+      "name": "crateTexture",
+      "path": "Textures\\Crate.dds"
+    },
+    {
+      "name": "skyboxTexture",
+      "path": "Textures\\Skybox.dds"
+    }
+  ]
+}
